@@ -24,7 +24,7 @@ export default function Gallery() {
 
   const galleryItems: GalleryItem[] = useMemo(() => [
     // Interior
-    { image: "/images/Interior Painting 1.png", title: "Living Room Accent Wall", category: "Interior" },
+    { image: "/images/interior designs.jpeg", title: "Living Room Accent Wall", category: "Interior" },
     { image: "/images/Interior Painting 2.png", title: "Dining Room Refinishing", category: "Interior" },
     { image: "/images/Interior Painting 3.png", title: "Hallway Detailing", category: "Interior" },
     { image: "/images/Bedroom Painting 1.png", title: "Master Bedroom Warm Tones", category: "Interior" },
@@ -38,8 +38,7 @@ export default function Gallery() {
     
     // Exterior
     { image: "/images/Exterior Painting Image 1.png", title: "Estate Siding & Trim", category: "Exterior" },
-    { image: "/images/Exterior Painting Image 2.png", title: "Contemporary Facade Weather-Coat", category: "Exterior" },
-    { image: "/images/Exterior Painting Image three.png", title: "Brick Stain & Front Entry", category: "Exterior" }, // Spelled 'three.png' in workspace
+    { image: "/images/exterior painting.jpeg", title: "Contemporary Facade Weather-Coat", category: "Exterior" },
     { image: "/images/Exterior Painting Image 4.png", title: "Premium Backyard Deck Coat", category: "Exterior" },
 
     // Commercial

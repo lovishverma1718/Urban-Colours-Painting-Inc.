@@ -12,7 +12,7 @@ export default function CTABanner() {
           Ready to Refresh Your Property?
         </h2>
         <p className="text-lg text-gray-300 max-w-2xl mx-auto mb-8 leading-relaxed">
-          Get a free estimate and discover how Urban Colours Painting Ltd. delivers premium results with exceptional customer service and meticulous attention to detail.
+          Get a free estimate and discover how Urban Colours Painting Inc. delivers premium results with exceptional customer service and meticulous attention to detail.
         </p>
         
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

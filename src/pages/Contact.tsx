@@ -152,7 +152,7 @@ export default function Contact() {
                   Canadian Service Area Coverage
                 </h3>
                 <p className="text-sm text-body-text leading-relaxed">
-                  Urban Colours Painting Ltd. is licensed and registered to serve major residential centers, commercial business parks, retail facilities, and municipal zones. We travel directly to your location with our self-contained crews, tools, and materials.
+                  Urban Colours Painting Inc. is licensed and registered to serve major residential centers, commercial business parks, retail facilities, and municipal zones. We travel directly to your location with our self-contained crews, tools, and materials.
                 </p>
                 <div className="flex flex-wrap gap-2 pt-2">
                   {["Ontario", "British Columbia", "Alberta", "Quebec", "Nova Scotia", "Saskatchewan"].map((prov) => (

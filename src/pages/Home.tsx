@@ -29,7 +29,7 @@ export default function Home() {
   const services = [
     {
       title: "Residential Painting",
-      image: "/images/outside home painting.png",
+      image: "/images/residential painting.jpeg",
       description: "Complete interior and exterior painting services tailored to protect and beautify your home.",
     },
     {
@@ -39,12 +39,12 @@ export default function Home() {
     },
     {
       title: "Interior Painting",
-      image: "/images/Interior Painting 1.png",
+      image: "/images/interior designs.jpeg",
       description: "Meticulous surface prep and crisp finishes that breathe new life into bedrooms, kitchens, and living areas.",
     },
     {
       title: "Exterior Painting",
-      image: "/images/Exterior Painting Image 2.png",
+      image: "/images/exterior painting.jpeg",
       description: "Durable, weather-resistant coatings for siding, brick, trim, and decks built to withstand Canadian winters.",
     },
     {
@@ -74,7 +74,7 @@ export default function Home() {
     {
       category: "Interior Painting",
       title: "Open-Concept Brightening",
-      image: "/images/Interior Painting 1.png",
+      image: "/images/interior designs.jpeg",
       description: "Repainting of a spacious living room and dining area, emphasizing natural light and smooth ceiling textures.",
     },
     {
@@ -99,22 +99,22 @@ export default function Home() {
 
   const reviews = [
     {
-      name: "Marcus V.",
+      name: "Manav Mann",
       location: "Toronto, ON",
       rating: 5,
-      text: "Urban Colours painted the entire exterior of our home. The crew was extremely professional, arrived on time every morning, and left our yard spotless each day. The quality of the finish is outstanding. Highly recommend them!",
+      text: "I had a great experience with Urban Color Painting. The team was professional, punctual, and paid attention to every detail. Their work quality was excellent, and they made sure everything looked clean and finished perfectly. They were also respectful, easy to communicate with, and completed the job on time. Highly recommend Urban Colour Painting to anyone looking for reliable and high-quality painters.",
     },
     {
-      name: "Brenda K.",
+      name: "Darcy Shier",
       location: "Vancouver, BC",
       rating: 5,
-      text: "The interior of our office building was in desperate need of an update. They worked around our operating hours, completed the job on schedule, and did a flawless job. Very minimal disruption to our daily business operations.",
+      text: "The entire team were great listeners even as I pointed to new meticulous painting jobs. The apartment is looking very updated and fresh without any blemishes. Thanks to Urban Colours Painting INC. I will soon be completing stages 2 and 3 of the renovations. This organization was able put other industrial groups in touch to finish the needed renovations.",
     },
     {
-      name: "Arthur M.",
+      name: "Cheryl Salmon",
       location: "Ottawa, ON",
       rating: 5,
-      text: "We had them remove popcorn ceilings in our living room and paint the walls. They were so careful with masking and covering all furniture. The finished ceilings look incredibly flat and modern. Exceptional workmanship.",
+      text: "Highly recommend Urban Colours. They have just finished painting the exterior of our house. They were fast and efficient, friendly, communication was great, they left the place clean and the price was very fair! They came in cheaper than 3 other quotes. I wouldn't hesitate to use them again.",
     },
   ];
 
@@ -125,7 +125,7 @@ export default function Home() {
         {/* Hero Background Image */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/outside home painting.png"
+            src="/images/residential painting.jpeg"
             alt="Urban Colours Painting Exterior Project"
             className="w-full h-full object-cover"
           />
@@ -200,7 +200,7 @@ export default function Home() {
               </h2>
               <div className="space-y-4 text-body-text text-[17px] leading-relaxed">
                 <p>
-                  At Urban Colours Painting Ltd., we believe a coat of paint does more than change a color—it elevates your environment, protects your investment, and creates spaces where memories are made and businesses thrive.
+                  At Urban Colours Painting Inc., we believe a coat of paint does more than change a color—it elevates your environment, protects your investment, and creates spaces where memories are made and businesses thrive.
                 </p>
                 <p>
                   For years, our Canadian painting crews have built a reputation of exceptional workmanship, reliability, and clean practices. Whether refreshing a cozy family home or coating a major commercial center, we approach every project with structured preparation, high-quality materials, and absolute precision.

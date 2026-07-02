@@ -48,7 +48,7 @@ export default function Header() {
             <Link to="/" className="flex items-center gap-3 group">
               <img
                 src="/logo.png"
-                alt="Urban Colours Painting Ltd. Logo"
+                alt="Urban Colours Painting Inc. Logo"
                 className="h-10 w-auto object-contain transition-premium group-hover:scale-105"
               />
               <span className="font-bold text-lg text-brand-navy tracking-tight hidden sm:inline-block">

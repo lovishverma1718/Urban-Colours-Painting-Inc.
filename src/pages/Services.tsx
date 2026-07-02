@@ -7,7 +7,7 @@ export default function Services() {
   const serviceList = [
     {
       title: "Residential Painting",
-      image: "/images/Exterior Painting Image 2.png",
+      image: "/images/residential painting.jpeg",
       description: "Full-service interior and exterior residential painting crafted to transform houses into beautiful homes. We handle houses of all sizes, from heritage restorations to modern architectural layouts.",
       benefits: [
         "Premium low-VOC/zero-VOC paint formulations",
@@ -43,7 +43,7 @@ export default function Services() {
     },
     {
       title: "Exterior Painting",
-      image: "/images/Exterior Painting Image three.png", // Correct spelling in workspace is 'Exterior Painting Image three.png'
+      image: "/images/exterior painting.jpeg", // Correct spelling in workspace is 'Exterior Painting Image three.png'
       description: "Durable protective coatings for wood, brick, stucco, vinyl siding, trims, decks, and fences. We utilize weather-tested primers and paints designed to withstand harsh Canadian temperature swings.",
       benefits: [
         "Thorough power washing and scraping prep",

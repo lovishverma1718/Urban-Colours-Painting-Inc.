@@ -98,7 +98,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-body-text text-[17px] leading-relaxed">
                 <p>
-                  Urban Colours Painting Ltd. was founded with a clear objective: to bring a premium, high-integrity service model to the Canadian residential and commercial contracting industry. We realized that finding a painter who is not only skilled but also clean, punctual, and fully insured could be a challenge.
+                  Urban Colours Painting Inc. was founded with a clear objective: to bring a premium, high-integrity service model to the Canadian residential and commercial contracting industry. We realized that finding a painter who is not only skilled but also clean, punctual, and fully insured could be a challenge.
                 </p>
                 <p>
                   We set out to change that. By recruiting vetted professionals, training them in advanced coating systems, and establishing strict site-cleanliness protocols, we created an experience that feels premium from the first phone call to the final invoice.

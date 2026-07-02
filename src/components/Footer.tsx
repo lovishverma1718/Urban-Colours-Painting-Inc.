@@ -13,7 +13,7 @@ export default function Footer() {
             <Link to="/" className="flex items-center gap-3">
               <img
                 src="/logo.png"
-                alt="Urban Colours Painting Ltd. Logo"
+                alt="Urban Colours Painting Inc. Logo"
                 className="h-10 w-auto object-contain bg-white p-1 rounded"
               />
               <span className="font-bold text-lg text-white tracking-tight">
@@ -128,7 +128,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 mt-8 border-t border-gray-800 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-400 text-center md:text-left">
-            &copy; {currentYear} Urban Colours Painting Ltd. All rights reserved.
+            &copy; {currentYear} Urban Colours Painting Inc. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-gray-400">
             <Link to="/contact" className="hover:text-white transition-colors">
