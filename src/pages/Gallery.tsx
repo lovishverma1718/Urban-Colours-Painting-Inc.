@@ -24,7 +24,7 @@ export default function Gallery() {
 
   const galleryItems: GalleryItem[] = useMemo(() => [
     // Interior
-    { image: "/images/interior designs.jpeg", title: "Living Room Accent Wall", category: "Interior" },
+    { image: "/images/new image paint client.png", title: "Living Room Accent Wall", category: "Interior" },
     { image: "/images/Interior Painting 2.png", title: "Dining Room Refinishing", category: "Interior" },
     { image: "/images/Interior Painting 3.png", title: "Hallway Detailing", category: "Interior" },
     { image: "/images/Bedroom Painting 1.png", title: "Master Bedroom Warm Tones", category: "Interior" },

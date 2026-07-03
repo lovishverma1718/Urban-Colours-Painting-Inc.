@@ -224,7 +224,7 @@ export default function Home() {
             <div className="relative group">
               <div className="absolute -inset-4 rounded-3xl bg-section-bg transition-premium group-hover:scale-[1.01]" />
               <img
-                src="/images/outside home painting.png"
+                src="/images/hero section image change.png"
                 alt="Urban Colours Painted Exterior Home"
                 className="relative rounded-2xl w-full h-[450px] object-cover shadow-soft border border-border-color transition-premium group-hover:shadow-md"
               />
